@@ -1,4 +1,4 @@
-# Projet So_long<br>
+# Projet LapinouQuest<br>
 
 ## Presentation<br>
 Ce projet représente la quête de Lapinou, qui doit récupérer toutes les carottes qu'il a égarées avant d'aller streamer.<br>
