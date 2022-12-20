@@ -23,7 +23,7 @@ int	main(int argc, char **argv)
 
 	map = map_init(argc, argv, &max);
 	mlx = mlx_init(64 * max.xm, 64 * max.ym,
-			"So long and thx for all the carrots", 1);
+			"Lapinou Quest", 1);
 	param.max = &max;
 	param.map = map;
 	if (map == NULL || !verify_map(&param))
