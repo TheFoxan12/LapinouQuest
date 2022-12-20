@@ -1,0 +1,10 @@
+*.o
+/*.o
+/*/*.o
+.idea
+/.idea
+/*/.idea
+/*/*/.idea
+so_long
+/cmake-build-debug
+/lib/ft_printf/libftprintf.a
